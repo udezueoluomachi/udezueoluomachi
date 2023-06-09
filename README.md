@@ -20,6 +20,7 @@
 [![skills](https://img.shields.io/badge/-NO_SQL_JSON_DB-FF0000?style=for-the-badge&logo=JAVASCRIPT&logoColor=white&color=grey)](https://github.com/udezueoluomachi/nosql-json-db)
 ![skills](https://img.shields.io/badge/-Python-FF0000?style=for-the-badge&logo=Python&logoColor=white&color=orange)
 ![skills](https://img.shields.io/badge/-React_Native-FF0630?style=for-the-badge&logo=REACT&logoColor=white&color=orange)
+![skills](https://img.shields.io/badge/-MONGO_DB-000690?style=for-the-badge&logo=MONGODB&logoColor=white&color=violet)
 
 </div>
 
