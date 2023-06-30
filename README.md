@@ -41,8 +41,10 @@
 <h1 align="center">About Me!</h1>
 
 <br/>
-<div align="center">
+<div align="left">
 I am a teenage full stack web developer from Nigeria. 18 years old and looking forward to collaborate on so many big time projects.
+
+I have solved few problems by writing codes and I am ready to solve more problems. That is what I live for. I feel like that is my purpose in life. You can visit my github profile to view my projects which are not displayed here. My favorite quote is Luck is for the unprepared. I am currently building Stackion
 </div>
 
 <br/>
