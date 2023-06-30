@@ -4,6 +4,8 @@
 
 <h4 align="center">I solve problems by writing creative lines of codes 👨‍💻</h4>
 
+
+
 <br/>
 
 <h1 align="center">My Skills</h1>
@@ -17,11 +19,14 @@
 ![skills](https://img.shields.io/badge/-J_Query-FF0000?style=for-the-badge&logo=jquery&logoColor=white&color=brown)
 ![skills](https://img.shields.io/badge/-PHP-FF0000?style=for-the-badge&logo=PHP&logoColor=white&color=yellow)
 ![skills](https://img.shields.io/badge/-MYSQL-FF0000?style=for-the-badge&logo=MYSQL&logoColor=white&color=blue)
+![skills](https://img.shields.io/badge/-SQL-FF0000?style=for-the-badge&logo=SQL&logoColor=white&color=0055FF)
 [![skills](https://img.shields.io/badge/-NO_SQL_JSON_DB-FF0000?style=for-the-badge&logo=JAVASCRIPT&logoColor=white&color=grey)](https://github.com/udezueoluomachi/nosql-json-db)
 ![skills](https://img.shields.io/badge/-Python-FF0000?style=for-the-badge&logo=Python&logoColor=white&color=orange)
-![skills](https://img.shields.io/badge/-React_Native-FF0630?style=for-the-badge&logo=REACT&logoColor=white&color=orange)
+![skills](https://img.shields.io/badge/-React_Native_and_React-FF0630?style=for-the-badge&logo=REACT&logoColor=white&color=orange)
 ![skills](https://img.shields.io/badge/-MONGO_DB-000690?style=for-the-badge&logo=MONGODB&logoColor=white&color=violet)
+![skills](https://img.shields.io/badge/-POSTMAN-000690?style=for-the-badge&logo=POSTMAN&logoColor=white&color=FF0077)
 
+[  [VIEW MY REPOSITRIES / PROJECTS](https://github.com/udezueoluomachi?tab=repositories)  ]
 </div>
 
 <h1 align="center">My Github Statistics</h1>
