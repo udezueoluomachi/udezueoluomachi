@@ -25,6 +25,7 @@
 ![skills](https://img.shields.io/badge/-React_Native_and_React-FF0630?style=for-the-badge&logo=REACT&logoColor=white&color=orange)
 ![skills](https://img.shields.io/badge/-MONGO_DB-000690?style=for-the-badge&logo=MONGODB&logoColor=white&color=violet)
 ![skills](https://img.shields.io/badge/-POSTMAN-000690?style=for-the-badge&logo=POSTMAN&logoColor=white&color=FF0077)
+![skills](https://img.shields.io/badge/-TAILWINDCSS-990690?style=for-the-badge&logo=TAILWINDCSS&logoColor=white&color=BLUE)
 
 [  [VIEW MY REPOSITRIES / PROJECTS](https://github.com/udezueoluomachi?tab=repositories)  ]
 </div>
