@@ -37,7 +37,7 @@
   <img align="center" width="100%" src="https://github-readme-stats.vercel.app/api?username=udezueoluomachi&bg_color=22272e00&hide_border=true&text_color=A1A1AA&title_color=fbbf24&include_all_commits=true" />
   <img align="center" width="100%" src="https://github-readme-stats.vercel.app/api/top-langs?username=udezueoluomachi&layout=compact&bg_color=22272e00&hide_border=true&text_color=A1A1AA&title_color=fbbf24" />
 
-[![My Github Activity Graph](https://activity-graph.herokuapp.com/graph?username=udezueoluomachi&bg_color=22272e00&hide_border=true&color=fbbf24&area_color=A1A1AA&title_color=fbbf24&line=fbbf24&point=A16207)](https://github.com/udezueoluomachi)
+[![My Github Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=udezueoluomachi&theme=github-compact)](https://github.com/udezueoluomachi)
 </div>
 <h1 align="center">About Me!</h1>
 
