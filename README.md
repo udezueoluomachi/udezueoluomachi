@@ -6,11 +6,6 @@
 
   *Building high-impact systems that drive real growth*
 
-  [![Portfolio](https://img.shields.io/badge/Portfolio-dream--dev.vercel.app-blue?style=flat-square&logo=vercel)](https://dream-dev.vercel.app)
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-oluomachi--udezue-0077B5?style=flat-square&logo=linkedin)](https://linkedin.com/in/oluomachi-udezue-085240264)
-  [![Twitter](https://img.shields.io/badge/Twitter-@udezueoluomachi-1DA1F2?style=flat-square&logo=x)](https://x.com/udezueoluomachi)
-  [![Email](https://img.shields.io/badge/Email-basilchimaobi2@gmail.com-D14836?style=flat-square&logo=gmail)](mailto:basilchimaobi2@gmail.com)
-
 </div>
 
 ---
@@ -200,11 +195,22 @@ Leading development of all proprietary software and infrastructure.
 
 <div align="center">
 
-  ![DREAM's GitHub Stats](https://github-readme-stats.vercel.app/api?username=udezueoluomachi&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+<a href="https://github.com/udezueoluomachi">
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=udezueoluomachi&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F85D7F&text_color=FFFFFF"/>
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=udezueoluomachi&layout=compact&langs_count=8&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&text_color=FFFFFF"/>
+</a>
 
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=udezueoluomachi&layout=compact&theme=tokyonight&hide_border=true)
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=udezueoluomachi&theme=radical&hide_border=true&background=0D1117&stroke=F85D7F&ring=F85D7F&fire=F85D7F&currStreakLabel=F85D7F" alt="GitHub Streak Stats"/>
 
-  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=udezueoluomachi&theme=tokyonight&hide_border=true)
+<img src="https://github-profile-trophy.vercel.app/?username=udezueoluomachi&theme=radical&no-frame=true&no-bg=true&margin-w=4&column=7" alt="GitHub Trophies"/>
+
+</div>
+
+<div align="center">
+
+### 📈 Contribution Graph
+
+[![DREAM's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=udezueoluomachi&theme=react-dark&hide_border=true&bg_color=0D1117&color=F85D7F&line=F85D7F&point=FFFFFF)](https://github.com/udezueoluomachi)
 
 </div>
 
