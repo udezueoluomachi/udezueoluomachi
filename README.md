@@ -1,66 +1,237 @@
-
-<h1 align="center">Hey There 👋 I'm Udezue Oluomachi Chimaobi</h1>
-<h4 align="center">Full Stack Web & Cross Platform App Developer</h4>
-
-<h4 align="center">I solve problems by writing creative lines of codes 👨‍💻</h4>
-
-
-
-<br/>
-
-<h1 align="center">My Skills</h1>
+# Hi, I'm DREAM 👋
 
 <div align="center">
 
-![skills](https://img.shields.io/badge/-JAVASCRIPT-FF0000?style=for-the-badge&logo=javascript&logoColor=white&color=red)
-![skills](https://img.shields.io/badge/-HTML-FF0000?style=for-the-badge&logo=html5&logoColor=white&color=green)
-![skills](https://img.shields.io/badge/-CSS-FF0000?style=for-the-badge&logo=css3&logoColor=white&color=indigo)
-![skills](https://img.shields.io/badge/-NODE_JS-FF0000?style=for-the-badge&logo=node.js&logoColor=white&color=purple)
-![skills](https://img.shields.io/badge/-J_Query-FF0000?style=for-the-badge&logo=jquery&logoColor=white&color=brown)
-![skills](https://img.shields.io/badge/-PHP-FF0000?style=for-the-badge&logo=PHP&logoColor=white&color=yellow)
-![skills](https://img.shields.io/badge/-MYSQL-FF0000?style=for-the-badge&logo=MYSQL&logoColor=white&color=blue)
-![skills](https://img.shields.io/badge/-SQL-FF0000?style=for-the-badge&logo=SQL&logoColor=white&color=0055FF)
-[![skills](https://img.shields.io/badge/-NO_SQL_JSON_DB-FF0000?style=for-the-badge&logo=JAVASCRIPT&logoColor=white&color=grey)](https://github.com/udezueoluomachi/nosql-json-db)
-![skills](https://img.shields.io/badge/-Python-FF0000?style=for-the-badge&logo=Python&logoColor=white&color=orange)
-![skills](https://img.shields.io/badge/-React_Native_and_React-FF0630?style=for-the-badge&logo=REACT&logoColor=white&color=orange)
-![skills](https://img.shields.io/badge/-MONGO_DB-000690?style=for-the-badge&logo=MONGODB&logoColor=white&color=violet)
-![skills](https://img.shields.io/badge/-POSTMAN-000690?style=for-the-badge&logo=POSTMAN&logoColor=white&color=FF0077)
-![skills](https://img.shields.io/badge/-TAILWINDCSS-990690?style=for-the-badge&logo=TAILWINDCSS&logoColor=white&color=BLUE)
+  **Full Stack Software Engineer | AI Researcher | Systems Architect**
 
-[  [VIEW MY REPOSITRIES / PROJECTS](https://github.com/udezueoluomachi?tab=repositories)  ]
+  *Building high-impact systems that drive real growth*
+
+  [![Portfolio](https://img.shields.io/badge/Portfolio-dream--dev.vercel.app-blue?style=flat-square&logo=vercel)](https://dream-dev.vercel.app)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-oluomachi--udezue-0077B5?style=flat-square&logo=linkedin)](https://linkedin.com/in/oluomachi-udezue-085240264)
+  [![Twitter](https://img.shields.io/badge/Twitter-@udezueoluomachi-1DA1F2?style=flat-square&logo=x)](https://x.com/udezueoluomachi)
+  [![Email](https://img.shields.io/badge/Email-basilchimaobi2@gmail.com-D14836?style=flat-square&logo=gmail)](mailto:basilchimaobi2@gmail.com)
+
 </div>
 
-<h1 align="center">My Github Statistics</h1>
+---
+
+## 🚀 About Me
+
+I'm **Oluomachi C. Udezue** (aka DREAM), a full-stack software engineer from Nigeria with **5+ years** of hands-on experience architecting and deploying scalable systems across **finance, education, agriculture, e-commerce, and media** industries.
+
+From **AI-assisted platforms processing 500+ research proposals** to **Nigeria's largest university marketplace** serving thousands of students, I specialize in building reliable, high-performance solutions that **actually matter**.
+
+Currently **studying Physics** at University of Benin by day, **shipping production code** by night.
+
+### 🎯 What I Do Best
+
+- **Full-Stack Architecture** — Next.js, React, Node.js, MongoDB, PostgreSQL
+- **AI/ML Integration** — Transformers, OpenAI, Anthropic, Google Gemini APIs
+- **DevOps & Infrastructure** — Docker, Kubernetes, AWS, CI/CD pipelines
+- **Mobile Development** — React Native, cross-platform PWAs
+- **System Design** — Microservices, real-time systems, offline-first architecture
+
+---
+
+## 💼 Current Work
+
+### 🏢 **Founder & Lead Engineer** @ [UniSyncT](https://unisynct.com)
+*April 2024 – Present*
+
+Building Nigeria's largest university social & marketplace platform connecting **50+ campuses**.
+
+- **Full-stack architecture**: Next.js 14, Node.js, MongoDB, Redis
+- **AI-powered search** with custom "Syncee" assistant
+- **Secure escrow trading** system with Paystack integration
+- **Real-time WebSocket messaging** for instant communication
+- **Cross-platform**: React Native mobile app + PWA
+- **AWS deployment** with automated CI/CD pipelines
+- **99.9% uptime** serving thousands of active users
+
+🔗 [Web App](https://unisynct.com/) | [Mobile App](https://play.google.com/store/apps/details?id=ng.unisynct.app)
+
+---
+
+### 💻 **Software Engineer** @ DRID, University of Benin
+*March 2025 – July 2025*
+
+Led development of the **TETFund IBR Grant Management Platform** handling **500+ research proposals annually**.
+
+- Built **AI-assisted proposal scoring engine** (Python + transformers + OpenAI API)
+- **Improved efficiency by 40%**, reduced manual review time by **50%**
+- Designed reviewer dashboards, blind review system, and admin analytics
+- **Docker + PM2 deployment** on VPS with **zero downtime** rollout
+- Developed custom CMS for research news, blogs, and events
+
+**Tech Stack**: Next.js, Node.js, Express, MongoDB, Python, Docker, Nginx, Cloudflare
+
+---
+
+### 🔧 **Senior Systems Engineer** @ Blockbytes
+*February 2024 – Present | Remote*
+
+Leading development of all proprietary software and infrastructure.
+
+- Architecting **cross-platform desktop apps** (Electron, Tauri)
+- Building **high-frequency automation bots** and data pipelines
+- Managing **AWS infrastructure**, MongoDB clusters, CI/CD pipelines
+- Implementing **robust security measures** and compliance protocols
+- Conducting R&D on emerging technologies and optimization strategies
+
+---
+
+## 🛠️ Tech Arsenal
+
+### **Backend**
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
+![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+
+### **Frontend**
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![React Native](https://img.shields.io/badge/-React_Native-61DAFB?style=flat-square&logo=react&logoColor=black)
+![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+![SCSS](https://img.shields.io/badge/-SCSS-CC6699?style=flat-square&logo=sass&logoColor=white)
+![Three.js](https://img.shields.io/badge/-Three.js-000000?style=flat-square&logo=three.js&logoColor=white)
+![GSAP](https://img.shields.io/badge/-GSAP-88CE02?style=flat-square&logo=greensock&logoColor=white)
+
+### **Databases**
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+
+### **AI/ML**
+![OpenAI](https://img.shields.io/badge/-OpenAI_API-412991?style=flat-square&logo=openai&logoColor=white)
+![Google Gemini](https://img.shields.io/badge/-Google_Gemini-8E75B2?style=flat-square&logo=google&logoColor=white)
+![Anthropic](https://img.shields.io/badge/-Anthropic_API-191919?style=flat-square&logo=anthropic&logoColor=white)
+![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![Transformers](https://img.shields.io/badge/-Transformers-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+
+### **DevOps & Cloud**
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![DigitalOcean](https://img.shields.io/badge/-DigitalOcean-0080FF?style=flat-square&logo=digitalocean&logoColor=white)
+![Nginx](https://img.shields.io/badge/-Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+
+### **Desktop & Mobile**
+![Electron](https://img.shields.io/badge/-Electron-47848F?style=flat-square&logo=electron&logoColor=white)
+![Tauri](https://img.shields.io/badge/-Tauri-FFC131?style=flat-square&logo=tauri&logoColor=white)
+![React Native](https://img.shields.io/badge/-React_Native-61DAFB?style=flat-square&logo=react&logoColor=black)
+
+---
+
+## 🏆 Featured Projects
+
+### 🎓 [UniSyncT Platform](https://unisynct.com)
+**Nigeria's largest university marketplace & social network**
+- AI-powered search (Syncee assistant)
+- Secure escrow system for safe trades
+- Real-time chat & notifications
+- Campus-scoped feeds & networking
+- **Tech**: Next.js, React Native, MongoDB, Redis, WebSockets, AI
+
+### 🌍 [Sequoia Research](https://sequoiares.org)
+**Climate think tank platform for Africa**
+- Custom CMS with role-based workflows
+- Research publications & policy briefs
+- Interactive climate data visualizations
+- **Tech**: Next.js, Node.js, MongoDB, Custom CMS
+
+### 💼 [Man Cave by Modern Man](https://mancavebymodernman.com)
+**Luxury grooming & lifestyle brand**
+- Membership tiers & appointment booking
+- Customer CRM & analytics
+- Exclusive community features
+- **Tech**: Next.js, TailwindCSS, Backend APIs
+
+### 🤖 [ReelStash Bot](https://t.me/reelstashbot)
+**Smart Telegram bot for organizing social media content**
+- Instant Instagram/TikTok reel saving
+- Natural language search with AI
+- Personal collections & collaborative folders
+- **Tech**: Python, Telegram API, AI/ML
+
+### 💸 Stackion (2022-2023)
+**Offline-first fintech mobile app**
+- Peer-to-peer money transfer **without internet**
+- Proximity syncing & deferred validation
+- Innovative device-caching system
+- **Tech**: React Native, Node.js, KudaBank API, MySQL
+
+### 🎨 [Personal Portfolio](https://dream-dev.vercel.app)
+**Modern developer portfolio with stunning animations**
+- Parallax effects & interactive 3D elements
+- Custom cursor & smooth scrolling
+- iOS-style dock navigation
+- **Tech**: Next.js 16, React 19, Framer Motion, GSAP, Three.js
+
+---
+
+## 📊 GitHub Stats
 
 <div align="center">
-<img align="center" width="100%" src="http://github-readme-streak-stats.herokuapp.com?user=udezueoluomachi&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D&background=22272E00&dates=A1A1AA&currStreakNum=FBBF24&ring=FBBF24&fire=FBBF24&sideNums=A1A1AA&currStreakLabel=FBBF24&sideLabels=FBBF24&stroke=FFFFFF51)](https://git.io/streak-stats" />
-  <img align="center" width="100%" src="https://github-readme-stats.vercel.app/api?username=udezueoluomachi&bg_color=22272e00&hide_border=true&text_color=A1A1AA&title_color=fbbf24&include_all_commits=true" />
-  <img align="center" width="100%" src="https://github-readme-stats.vercel.app/api/top-langs?username=udezueoluomachi&layout=compact&bg_color=22272e00&hide_border=true&text_color=A1A1AA&title_color=fbbf24" />
 
-[![My Github Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=udezueoluomachi&theme=github-compact)](https://github.com/udezueoluomachi)
-</div>
-<h1 align="center">About Me!</h1>
+  ![DREAM's GitHub Stats](https://github-readme-stats.vercel.app/api?username=udezueoluomachi&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
 
-<br/>
-<div align="left">
-I am a Software Engineer from Nigeria. 21 years old.
+  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=udezueoluomachi&layout=compact&theme=tokyonight&hide_border=true)
 
-I have solved few problems by writing codes and I am ready to solve more problems. That is what I live for. I feel like that is my purpose in life. You can visit my github profile to view my projects which are not displayed here. My favorite quote is Luck is for the unprepared. I am currently building <a href="https://unisynct.com">UniSyncT</a>
+  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=udezueoluomachi&theme=tokyonight&hide_border=true)
+
 </div>
 
-<br/>
+---
 
-<h1 align="center">Get In Touch With Me</h1>
+## 🎯 Career Highlights
+
+- 🚀 **Founded UniSyncT** — Scaling to 50+ Nigerian universities
+- 🤖 **Built AI scoring system** — Processing 500+ research proposals/year
+- 💻 **50+ client projects delivered** — Across 5+ industries
+- ⚡ **40% efficiency improvement** — On TETFund grant management
+- 🏗️ **99.9% uptime** — On production systems serving thousands
+- 🐟 **Bootstrapped fish farming business** — Funded my coding education
+- 📚 **Self-taught developer** — From construction worker to software engineer
+
+---
+
+## 🌱 Current Focus
+
+- 🔥 Scaling **UniSyncT** to reach **1M+ university students** across Nigeria
+- 🤖 Deep diving into **advanced AI/ML** integration and **LLM fine-tuning**
+- ⚙️ Mastering **Kubernetes** and **microservices architecture** at scale
+- 🧪 Experimenting with **WebAssembly** and **edge computing**
+- 📖 Studying **Physics** while shipping production code daily
+
+---
+
+## 📫 Let's Connect
+
+I'm always open to collaborating on **impactful projects**, **open-source contributions**, or discussing **innovative ideas**.
+
+- 🌐 **Portfolio**: [dream-dev.vercel.app](https://dream-dev.vercel.app)
+- 💼 **LinkedIn**: [oluomachi-udezue](https://linkedin.com/in/oluomachi-udezue-085240264)
+- 🐦 **Twitter/X**: [@udezueoluomachi](https://x.com/udezueoluomachi)
+- 📧 **Email**: [basilchimaobi2@gmail.com](mailto:basilchimaobi2@gmail.com)
+- 📄 **Resume**: [Google Drive](https://docs.google.com/document/d/1YTbxdKV_5J52iWrysrXXNnovkE0KOvxmcO3ODcWyG5c/edit?usp=sharing)
+
+---
+
 <div align="center">
-  
-  <a href="mailto:basilchimaobi2@gmail.com">
-    <img src="https://img.shields.io/badge/-BASILCHIMAOBI2@GMAIL.COM-FF0FF0?style=for-the-badge&logo=gmail&logoColor=white&color=red" />
-  </a>
-  <a href="https://facebook.com/udezueoluomachi.chimaobi">
-    <img src="https://img.shields.io/badge/-UDEZUE_OLUOMACHI_CHIMAOBI-FF0000?style=for-the-badge&logo=facebook&logoColor=white&color=blue" />
-  </a>
-  <a href="https://twitter.com/@udezueoluomachi">
-    <img src="https://img.shields.io/badge/-UDEZUE_OLUOMACHI_CHIMAOBI-0000FF?style=for-the-badge&logo=twitter&logoColor=white" />
-  </a>
-  
- </div>
+
+  ### 💡 *"From fish farming to full-stack engineering — proof that grit, curiosity, and code can take you anywhere."*
+
+  **⭐ If you find my work interesting, consider starring some repos!**
+
+  ![Profile Views](https://komarev.com/ghpvc/?username=udezueoluomachi&color=blue&style=flat-square)
+
+</div>
