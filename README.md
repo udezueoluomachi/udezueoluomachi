@@ -25,11 +25,13 @@ Currently **studying Physics** at University of Benin by day, **shipping product
 
 ### 🎯 What I Do Best
 
-- **Full-Stack Architecture** — Next.js, React, Node.js, MongoDB, PostgreSQL
+- **Full-Stack Architecture** — Next.js, React, Node.js, MongoDB, PostgreSQL, Prisma ORM
+- **Monorepo & Build Tools** — Turborepo, npm workspaces, advanced TypeScript configurations
 - **AI/ML Integration** — Transformers, OpenAI, Anthropic, Google Gemini APIs
-- **DevOps & Infrastructure** — Docker, Kubernetes, AWS, CI/CD pipelines
+- **DevOps & Infrastructure** — Docker, Kubernetes, AWS, CI/CD pipelines, automated deployments
 - **Mobile Development** — React Native, cross-platform PWAs
-- **System Design** — Microservices, real-time systems, offline-first architecture
+- **System Design** — Microservices, real-time systems, offline-first architecture, monorepo patterns
+- **Testing & Quality** — E2E testing, integration testing, code coverage, security scanning
 
 ---
 
@@ -90,6 +92,7 @@ Leading development of all proprietary software and infrastructure.
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
 ![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![Prisma](https://img.shields.io/badge/-Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
 
 ### **Frontend**
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
@@ -123,15 +126,40 @@ Leading development of all proprietary software and infrastructure.
 ![Nginx](https://img.shields.io/badge/-Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Turborepo](https://img.shields.io/badge/-Turborepo-EF4444?style=flat-square&logo=turborepo&logoColor=white)
+![Husky](https://img.shields.io/badge/-Husky-42B983?style=flat-square&logo=git&logoColor=white)
 
 ### **Desktop & Mobile**
 ![Electron](https://img.shields.io/badge/-Electron-47848F?style=flat-square&logo=electron&logoColor=white)
 ![Tauri](https://img.shields.io/badge/-Tauri-FFC131?style=flat-square&logo=tauri&logoColor=white)
 ![React Native](https://img.shields.io/badge/-React_Native-61DAFB?style=flat-square&logo=react&logoColor=black)
 
+### **Testing & Quality Assurance**
+![Jest](https://img.shields.io/badge/-Jest-C21325?style=flat-square&logo=jest&logoColor=white)
+![Testing Library](https://img.shields.io/badge/-Testing_Library-E33332?style=flat-square&logo=testing-library&logoColor=white)
+![ESLint](https://img.shields.io/badge/-ESLint-4B32C3?style=flat-square&logo=eslint&logoColor=white)
+![Prettier](https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=black)
+![Commitlint](https://img.shields.io/badge/-Commitlint-000000?style=flat-square&logo=commitlint&logoColor=white)
+
+### **Architecture & Patterns**
+![Monorepo](https://img.shields.io/badge/-Monorepo-6366F1?style=flat-square&logo=turborepo&logoColor=white)
+![Microservices](https://img.shields.io/badge/-Microservices-FF6B6B?style=flat-square&logo=molecular&logoColor=white)
+![REST API](https://img.shields.io/badge/-REST_API-009688?style=flat-square&logo=fastapi&logoColor=white)
+![WebSockets](https://img.shields.io/badge/-WebSockets-010101?style=flat-square&logo=socket.io&logoColor=white)
+
 ---
 
 ## 🏆 Featured Projects
+
+### 📈 [TalentPips](https://talentpips.com)
+**Intelligent trading ecosystem with enterprise-grade monorepo architecture**
+- **Advanced monorepo setup** with Turborepo for blazing-fast builds
+- Full-stack trading platform with real-time data processing
+- Prisma ORM for type-safe database operations
+- Comprehensive test coverage (E2E, integration, unit testing)
+- Enterprise security scanning & performance monitoring
+- Docker containerization with production-grade deployment
+- **Tech**: Next.js, React 18, Prisma, PostgreSQL, Redis, Turborepo, Docker, AWS SES
 
 ### 🎓 [UniSyncT Platform](https://unisynct.com)
 **Nigeria's largest university marketplace & social network**
@@ -195,10 +223,12 @@ Leading development of all proprietary software and infrastructure.
 ## 🎯 Career Highlights
 
 - 🚀 **Founded UniSyncT** — Scaling to 50+ Nigerian universities
+- 📈 **Built TalentPips** — Enterprise monorepo trading platform with Turborepo
 - 🤖 **Built AI scoring system** — Processing 500+ research proposals/year
 - 💻 **50+ client projects delivered** — Across 5+ industries
 - ⚡ **40% efficiency improvement** — On TETFund grant management
 - 🏗️ **99.9% uptime** — On production systems serving thousands
+- 🛠️ **Monorepo architecture expert** — Turborepo, npm workspaces, Prisma ORM
 - 🐟 **Bootstrapped fish farming business** — Funded my coding education
 - 📚 **Self-taught developer** — From construction worker to software engineer
 
@@ -207,8 +237,10 @@ Leading development of all proprietary software and infrastructure.
 ## 🌱 Current Focus
 
 - 🔥 Scaling **UniSyncT** to reach **1M+ university students** across Nigeria
+- 📈 Building **TalentPips** — Enterprise-grade trading platform with advanced monorepo architecture
 - 🤖 Deep diving into **advanced AI/ML** integration and **LLM fine-tuning**
 - ⚙️ Mastering **Kubernetes** and **microservices architecture** at scale
+- 🏗️ Architecting **monorepo systems** with Turborepo, Prisma, and TypeScript
 - 🧪 Experimenting with **WebAssembly** and **edge computing**
 - 📖 Studying **Physics** while shipping production code daily
 
