@@ -151,16 +151,6 @@ Leading development of all proprietary software and infrastructure.
 
 ## 🏆 Featured Projects
 
-### 📈 [TalentPips](https://talentpips.com)
-**Intelligent trading ecosystem with enterprise-grade monorepo architecture**
-- **Advanced monorepo setup** with Turborepo for blazing-fast builds
-- Full-stack trading platform with real-time data processing
-- Prisma ORM for type-safe database operations
-- Comprehensive test coverage (E2E, integration, unit testing)
-- Enterprise security scanning & performance monitoring
-- Docker containerization with production-grade deployment
-- **Tech**: Next.js, React 18, Prisma, PostgreSQL, Redis, Turborepo, Docker, AWS SES
-
 ### 🎓 [UniSyncT Platform](https://unisynct.com)
 **Nigeria's largest university marketplace & social network**
 - AI-powered search (Syncee assistant)
@@ -223,7 +213,6 @@ Leading development of all proprietary software and infrastructure.
 ## 🎯 Career Highlights
 
 - 🚀 **Founded UniSyncT** — Scaling to 50+ Nigerian universities
-- 📈 **Built TalentPips** — Enterprise monorepo trading platform with Turborepo
 - 🤖 **Built AI scoring system** — Processing 500+ research proposals/year
 - 💻 **50+ client projects delivered** — Across 5+ industries
 - ⚡ **40% efficiency improvement** — On TETFund grant management
@@ -236,8 +225,7 @@ Leading development of all proprietary software and infrastructure.
 
 ## 🌱 Current Focus
 
-- 🔥 Scaling **UniSyncT** to reach **1M+ university students** across Nigeria
-- 📈 Building **TalentPips** — Enterprise-grade trading platform with advanced monorepo architecture
+- 🔥 Scaling **UniSyncT** to reach **1m+ university students** across Nigeria
 - 🤖 Deep diving into **advanced AI/ML** integration and **LLM fine-tuning**
 - ⚙️ Mastering **Kubernetes** and **microservices architecture** at scale
 - 🏗️ Architecting **monorepo systems** with Turborepo, Prisma, and TypeScript
