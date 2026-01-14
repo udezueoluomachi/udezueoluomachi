@@ -6,17 +6,20 @@
 
   *Building high-impact systems that drive real growth*
 
+  [![Portfolio](https://img.shields.io/badge/Portfolio-dream--dev.vercel.app-blue?style=flat-square&logo=vercel)](https://dream-dev.vercel.app)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-oluomachi--udezue-0077B5?style=flat-square&logo=linkedin)](https://linkedin.com/in/oluomachi-udezue-085240264)
+  [![Twitter](https://img.shields.io/badge/Twitter-@udezueoluomachi-1DA1F2?style=flat-square&logo=x)](https://x.com/udezueoluomachi)
+  [![Email](https://img.shields.io/badge/Email-basilchimaobi2@gmail.com-D14836?style=flat-square&logo=gmail)](mailto:basilchimaobi2@gmail.com)
+
 </div>
 
 ---
 
 ## 🚀 About Me
 
-I'm **Oluomachi C. Udezue** (aka DREAM), a full-stack software engineer from Nigeria with **5+ years** of hands-on experience architecting and deploying scalable systems across **finance, education, agriculture, e-commerce, and media** industries.
+I'm **Oluomachi C. Udezue** (aka DREAM), a full-stack software engineer with **5+ years** of hands-on experience architecting and deploying scalable systems across **finance, education, agriculture, e-commerce, and media** industries.
 
-From **AI-assisted platforms processing 500+ research proposals** to **Nigeria's largest university marketplace** serving thousands of students, I specialize in building reliable, high-performance solutions that **actually matter**.
-
-Currently **studying Physics** at University of Benin by day, **shipping production code** by night.
+I specialize in building **AI-assisted platforms**, **enterprise monorepo architectures**, and **high-performance marketplace systems** that serve thousands of users with **99.9% uptime**.
 
 ### 🎯 What I Do Best
 
@@ -219,24 +222,24 @@ Leading development of all proprietary software and infrastructure.
 ## 🎯 Career Highlights
 
 - 🚀 **Founded UniSyncT** — Scaling to 50+ Nigerian universities
+- 📈 **Built TalentPips** — Enterprise monorepo trading platform with Turborepo
 - 🤖 **Built AI scoring system** — Processing 500+ research proposals/year
 - 💻 **50+ client projects delivered** — Across 5+ industries
 - ⚡ **40% efficiency improvement** — On TETFund grant management
 - 🏗️ **99.9% uptime** — On production systems serving thousands
 - 🛠️ **Monorepo architecture expert** — Turborepo, npm workspaces, Prisma ORM
-- 🐟 **Bootstrapped fish farming business** — Funded my coding education
-- 📚 **Self-taught developer** — From construction worker to software engineer
+- 🔒 **Security & quality focus** — E2E testing, security scanning, CI/CD automation
 
 ---
 
 ## 🌱 Current Focus
 
-- 🔥 Scaling **UniSyncT** to reach **1m+ university students** across Nigeria
+- 🔥 Scaling **UniSyncT** to reach **1M+ university students** across Nigeria
+- 📈 Building **TalentPips** — Enterprise-grade trading platform with advanced monorepo architecture
 - 🤖 Deep diving into **advanced AI/ML** integration and **LLM fine-tuning**
 - ⚙️ Mastering **Kubernetes** and **microservices architecture** at scale
 - 🏗️ Architecting **monorepo systems** with Turborepo, Prisma, and TypeScript
 - 🧪 Experimenting with **WebAssembly** and **edge computing**
-- 📖 Studying **Physics** while shipping production code daily
 
 ---
 
@@ -254,7 +257,7 @@ I'm always open to collaborating on **impactful projects**, **open-source contri
 
 <div align="center">
 
-  ### 💡 *"From fish farming to full-stack engineering — proof that grit, curiosity, and code can take you anywhere."*
+  ### 💡 *"Building scalable systems that drive real impact and growth."*
 
   **⭐ If you find my work interesting, consider starring some repos!**
 
