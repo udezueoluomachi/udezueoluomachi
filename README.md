@@ -251,7 +251,7 @@ I'm always open to collaborating on **impactful projects**, **open-source contri
 - 💼 **LinkedIn**: [oluomachi-udezue](https://linkedin.com/in/oluomachi-udezue-085240264)
 - 🐦 **Twitter/X**: [@udezueoluomachi](https://x.com/udezueoluomachi)
 - 📧 **Email**: [basilchimaobi2@gmail.com](mailto:basilchimaobi2@gmail.com)
-- 📄 **Resume**: [Google Drive](https://docs.google.com/document/d/1YTbxdKV_5J52iWrysrXXNnovkE0KOvxmcO3ODcWyG5c/edit?usp=sharing)
+- 📄 **Resume**: [Take a Look](https://docs.google.com/document/d/1YTbxdKV_5J52iWrysrXXNnovkE0KOvxmcO3ODcWyG5c/edit?usp=sharing)
 
 ---
 
