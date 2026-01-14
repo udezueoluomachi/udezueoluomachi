@@ -5,12 +5,7 @@
   **Full Stack Software Engineer | AI Researcher | Systems Architect**
 
   *Building high-impact systems that drive real growth*
-
-  [![Portfolio](https://img.shields.io/badge/Portfolio-dream--dev.vercel.app-blue?style=flat-square&logo=vercel)](https://dream-dev.vercel.app)
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-oluomachi--udezue-0077B5?style=flat-square&logo=linkedin)](https://linkedin.com/in/oluomachi-udezue-085240264)
-  [![Twitter](https://img.shields.io/badge/Twitter-@udezueoluomachi-1DA1F2?style=flat-square&logo=x)](https://x.com/udezueoluomachi)
-  [![Email](https://img.shields.io/badge/Email-basilchimaobi2@gmail.com-D14836?style=flat-square&logo=gmail)](mailto:basilchimaobi2@gmail.com)
-
+  
 </div>
 
 ---
