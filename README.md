@@ -35,7 +35,7 @@ I specialize in building **AI-assisted platforms**, **enterprise monorepo archit
 
 Building Nigeria's largest university social & marketplace platform connecting **50+ campuses**.
 
-- **Full-stack architecture**: Next.js 14, Node.js, MongoDB, Redis
+- **Full-stack architecture**: Next.js, Node.js, MongoDB, Redis
 - **AI-powered search** with custom "Syncee" assistant
 - **Secure escrow trading** system with Paystack integration
 - **Real-time WebSocket messaging** for instant communication
